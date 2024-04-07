@@ -98,7 +98,7 @@ d.Đặt phòng
 e.Nạp tiền
 f.Đặt 1 vài dịch vụ gì đó...(Mấy ông não to hoặc hay đi khách sạn có thể thêm vào)
 
-Note: Nếu có ý tưởng nào hay hoặc có gì ko đúng ý mấy huynh thì các huynh đài cứ sửa vào file (Nhớ note lại phía dưới này luôn nha...)
+Note: Nếu có ý tưởng nào hay hoặc có gì ko đúng ý mấy huynh thì các huynh đài cứ sửa vào file (Nhớ note lại phía dưới này luôn nha...).
 
 Note 0: Đại ca Tín hãy cứu lấy bọn em...
 
